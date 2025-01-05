@@ -7,7 +7,7 @@
 #if !defined(BITVECTOR_SIZE_DEFINED)
 #define BITVECTOR_SIZE_DEFINED
 
-#define BITVECTOR_SIZE 32   // Define the size of the bitvector (in bits)
+#define BITVECTOR_SIZE 64   // Define the size of the bitvector (in bits)
 
 #endif // BITVECTOR_SIZE_DEFINED
 
