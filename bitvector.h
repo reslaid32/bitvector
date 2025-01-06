@@ -2,6 +2,7 @@
 #define BITVECTOR_H
 
 #include <stdint.h>
+#include <stdio.h>
 #include <stddef.h>
 
 #if !defined(BITVECTOR_SIZE_DEFINED)
